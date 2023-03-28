@@ -159,8 +159,8 @@ dmypy.json
 .pyre/
 
 
-
+<<<<<<< HEAD
 This change was done in master.
-
+=======
 This change was made in copy.
-
+>>>>>>> copy
